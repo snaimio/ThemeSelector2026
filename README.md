@@ -32,8 +32,8 @@
 ## 🚀 Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/snaimio/ThemeSelector2026.git
-   cd ThemeSelector2026
+   git clone https://github.com/snaimio/theme-selector.git
+   cd theme-selector
    open ThemeSelector2026.xcodeproj
    ```
 2. Build and run via Xcode (`⌘ + R`).
